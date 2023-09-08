@@ -8,7 +8,7 @@ Este es un ejemplo que se hizo para una integracion de Camel con IBM MQ en Sprin
 Clone the project
 
 ```bash
-  git clone https://link-to-project
+  git clone https://github.com/SaulVazquezRedHat/integracion-camel-ibm-mq-springboot.git
 ```
 
 Para correr la aplicación en modo desarrollo, basta con correr el siguiente comando.
