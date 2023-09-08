@@ -17,3 +17,8 @@ Para correr la aplicación en modo desarrollo, basta con correr el siguiente com
   mvn spring-boot:run
 ```
 
+## Get IBM MQ instance
+
+Para desplegar localmente una instancia de IBM MQ, se puede hacer desde un contenedor. La guia de como hacerlos se puede encontrar la siguiente referencia.
+
+[Get an IBM MQ queue for development in a container](https://developer.ibm.com/tutorials/mq-connect-app-queue-manager-containers/)
